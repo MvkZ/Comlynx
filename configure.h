@@ -1,5 +1,9 @@
 #include <string>
 
+extern "C" {
+#include <termios.h>
+}
+
 #include<fcs.h>
 
 
